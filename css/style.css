@@ -190,4 +190,9 @@ border-radius: 50%;
 .socials{
     margin: 10px 40px;
 }
+.socials li{
+    list-style: none;
+    padding-bottom: 25px;
+}
+
 
